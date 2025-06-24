@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Amar Chavan</h1>
 <h3 align="center">🧑‍💻 3rd Year IT Student at PCCOE | Passionate Full Stack Developer</h3>
 
