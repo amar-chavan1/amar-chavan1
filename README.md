@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 I’m currently in **3rd year BTech IT at PCCOE**
-- 🧠 Exploring MERN Stack, Firebase, and Backend APIs
+- 🧠 Exploring MERN Stack, DSA java and AIML
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amarchavan1)
 
 ---
