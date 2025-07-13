@@ -54,4 +54,9 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=amarchavan-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p align="center"><b>Thanks for visiting!</b> 🚀</p>
+
+
