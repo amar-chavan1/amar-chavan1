@@ -54,7 +54,11 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amarchavan-1)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarchavan-1)
+</div>
+
 
 
 <p align="center"><b>Thanks for visiting!</b> 🚀</p>
