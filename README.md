@@ -5,9 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-</p>
+<div align="center">
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amarchavan-1)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -53,9 +55,6 @@
 </p>
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amarchavan-1)](https://git.io/streak-stats)
-
 
 
 <p align="center"><b>Thanks for visiting!</b> 🚀</p>
