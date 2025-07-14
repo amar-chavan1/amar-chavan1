@@ -54,10 +54,11 @@
 
 ---
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarchavan-1)
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=amarchavan-1&theme=github-dark&hide_border=false" alt="GitHub Streak"/>
+  </a>
+</p>
 
 
 
