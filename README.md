@@ -4,13 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+Learning+🚀" alt="Typing SVG" />
 </p>
-
-<div align="center">
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amarchavan-1)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
